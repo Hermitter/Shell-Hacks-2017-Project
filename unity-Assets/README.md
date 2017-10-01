@@ -1,0 +1,2 @@
+# Unity Assets
+These are all the files needed to run this Unity project. Assuming you have all the dependencies needed for Samsung Gear VR, this project should work after dragging these assets into your project.
